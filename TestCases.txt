@@ -1,0 +1,6 @@
+1. Verify that N songs can be stored in memory or not.
+2. Verify that more than N songs should not be stored and it should raise an error.
+3. Verify each user is linked to a song or not.
+4. Verify mapping of user and song is correct or not.
+5. Verify that recently played song can be fetched or not(based on the user).
+6. Verify that least recently played song is getting removed as memory size gets full.
